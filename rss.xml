@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2" -->
+<rss version="2.0">
+    <channel>
+        <title>Test Blog 1.9.9d</title>
+        <description>This is a test implementation of the Blog 2 script</description>
+        <link>http://www.pluggedout.com/blog2dev</link>
+        <lastBuildDate>Fri, 26 May 2006 15:17:23 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2</generator>
+        <image>
+            <url>http://www.pluggedout.com/images/powered_by_pluggedout.gif</url>
+            <title>Test Blog 1.9.9d</title>
+            <link>http://www.pluggedout.com/blog2dev</link>
+            <description><![CDATA[This is a test implementation of the Blog 2 script]]></description>
+        </image>
+        <item>
+            <title>Testing some more bug fixes...</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=13</link>
+            <description><![CDATA[Blah]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=13</comments>
+            <pubDate>Fri, 26 May 2006 14:17:11 +0100</pubDate>
+        </item>
+        <item>
+            <title>This is the default theme...</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=10</link>
+            <description><![CDATA[I just realised - it's worth pointing out that this is the default theme you get with the PluggedOut Blog script. It's called "Clean Lines", and is really just a quick example of what can be done.<br />
+<br />
+Hopefully over the next few weeks I'll get the time to make some new themes.<br />
+<br />
+<!--date_added_minute-->]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=10</comments>
+            <pubDate>Mon, 03 Apr 2006 11:07:48 +0100</pubDate>
+        </item>
+        <item>
+            <title>Example Blog Installation</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=9</link>
+            <description><![CDATA[This is a demonstration installation of the "PluggedOut Blog" script - it's a PHP/MySQL solution for blogs, journals, diaries or any kind of calendar application. It has been developed by a professional software developer - meaning the code is easy to read, light and fast. If nothing else it serves as a good example for people starting out in programming of how to develop a thin client (web) application.<br />
+<br />
+<strong>Homepage...</strong><br />
+  <a href="http://www.pluggedout.com/index.php?pk=dev_blog">http://www.pluggedout.com/index.php?pk=dev_blog</a><br />
+<br />
+<strong>Demonstration Blog...</strong><br />
+  <a href="http://www.pluggedout.com/blog2dev">http://www.pluggedout.com/blog2dev</a><br />
+  or<br />
+  <a href="http://www.pluggedout.com/blog">http://www.pluggedout.com/blog</a><br />
+<br />
+<strong>Support Forum...</strong><br />
+<a href="http://www.pluggedout.com/development/forums/viewforum.php?f=26">Discussion Forum</a><br />
+<br />
+<br />
+<strong>Feature Overview...</strong><br />
+<br />
+- Multi-User with Roles<br />
+- Themes & Templates<br />
+- Monthly calendar with hilighted days and navigation controls<br />
+- List of recent entries<br />
+- Visitor comments against entries<br />
+- Verification codes on comments (anti-spam)<br />
+- Supports RSS 2<br />
+- TimeZone control<br />
+- BBCodes<br />
+- Plugins/Includes supported<br />
+- Full administration interface<br />
+- Multi-Lingual Interfaces supported<br />
+- Add, edit, remove and publish/unpublish blog entries<br />
+- Author entries with a rich text editor inside your browser!<br />
+- Change themes<br />
+- Edit Template files directly from admin interface<br />
+- Upload files for use in entries<br />
+- Change settings<br />
+- Superb support through the PluggedOut forums<br />
+- A well written, stable script by a professional software developer<br />
+- Based on rock-solid technologies - MySQL and PHP.<br />
+]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=9</comments>
+            <pubDate>Mon, 03 Apr 2006 09:19:02 +0100</pubDate>
+        </item>
+        <item>
+            <title>Testing</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=8</link>
+            <description><![CDATA[Just trying out the BBCode for color...<br />
+<br />
+<span style="color:#990000;">This should be red.</span>]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=8</comments>
+            <pubDate>Sun, 02 Apr 2006 22:12:21 +0100</pubDate>
+        </item>
+        <item>
+            <title>1.9.9d gets pushed out the door...</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=7</link>
+            <description><![CDATA[This is the development version of the PluggedOut Blog script - it will usually show the latest "in progress" version of the script. At the moment it accurately reflects version 1.9.9d, which is available to download from the <a href="http://www.pluggedout.com/index.php?pk=dev_blog">development homepage</a>.<br />
+<br />
+I've now shut off the admin area of this installation to prevent people from logging in - it's too much of a security risk (it doesn't take a genius to figure out how to destroy the entire website if you have access to the admin facilities that the admin interface gives you).]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=7</comments>
+            <pubDate>Sun, 02 Apr 2006 17:34:08 +0100</pubDate>
+        </item>
+        <item>
+            <title>Testing Plugins</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=6</link>
+            <description><![CDATA[Okay... this is a quick test to see if plugins work. I now have an includes directory that you can drop php files in with functions in. If you write a tag into your script in the appropriate format, the tag gets replaced by the results of the function.<br />
+<br />
+[include:hello_world]<br />
+<br />
+Here's another example...<br />
+<br />
+[include:recent_comments]<br />
+<br />
+(and remember - these includes can appear anywhere - in any template, or any post...)]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=6</comments>
+            <pubDate>Sun, 02 Apr 2006 12:05:50 +0100</pubDate>
+        </item>
+        <item>
+            <title>Trying out BBCodes</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=5</link>
+            <description><![CDATA[<strong>This should be Bold</strong><br />
+<br />
+<em>This should be Italic</em><br />
+<br />
+<span style="border-bottom: 1px dotted">This should be underlined</span><br />
+<br />
+<strike>This should be struck through</strike><br />
+<br />
+<strong>Quote:</strong><div style="margin:0px 10px;padding:5px;background-color:#F7F7F7;border:1px dotted #CCCCCC;width:80%;"><em>This should be a quote!</em></div><br />
+<br />
+<ul>This should be indented</ul><br />
+<br />
+This should be a <a href="http://www.pluggedout.com">URL</a><br />
+<br />
+And an image...<br />
+<img src="http://www.pluggedout.com/images/powered_by_pluggedout.gif" alt="" style="border:0px;" /><br />
+<br />
+I wonder how well they work when embedded... this is some <em>italic text with a <strong>bold</strong> bit in it</em>.]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=5</comments>
+            <pubDate>Sat, 01 Apr 2006 20:09:04 +0100</pubDate>
+        </item>
+        <item>
+            <title>Getting there...</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=4</link>
+            <description><![CDATA[Here's what I've done so far (I'm keeping a note because I'll forget otherwise)<br />
+<br />
+- The blog script now has time adjustment for the displayed blog (meaning you can adjust the apparent times of entries if the server is outside of your own timezone).<br />
+<br />
+- The RSS is fixed so it updates automatically.<br />
+<br />
+- Languages are implemented for the admin interface - meaning it can be re-cast in the admin section just by changing one setting in the config file.<br />
+<br />
+- There is now a security code on the comment form. I need to tweak it a bit to stop idiots from OCRing it.<br />
+<br />
+ummm... I've probably forgotten a few things, but the main thing is it's getting there.]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Notes</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=4</comments>
+            <pubDate>Sat, 01 Apr 2006 19:00:31 +0100</pubDate>
+        </item>
+        <item>
+            <title>Trying things out some more...</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=3</link>
+            <description><![CDATA[<img src='http://www.pluggedout.com/blog2dev/uploads/bookworm_267x150.jpg' width='267' height='150' /><br />
+<br />
+Just trying this out to see what happens.<br />
+<br />
+Hopefully it should work okay.]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Default</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=3</comments>
+            <pubDate>Sat, 01 Apr 2006 18:30:38 +0100</pubDate>
+        </item>
+        <item>
+            <title>Testing the latest version</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=2</link>
+            <description><![CDATA[This is the version of Blog that will become version 1.9.9d]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <category>Default</category>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=2</comments>
+            <pubDate>Sat, 01 Apr 2006 16:09:41 +0100</pubDate>
+        </item>
+        <item>
+            <title>Test Entry</title>
+            <link>http://www.pluggedout.com/blog2dev/index.php?entryid=1</link>
+            <description><![CDATA[This is a quick test entry just to make sure this is working okay]]></description>
+            <author>jonbeckett@pluggedout.com</author>
+            <comments>http://www.pluggedout.com/blog2dev/index.php?entryid=1</comments>
+            <pubDate>Sun, 10 Jul 2005 23:00:00 +0100</pubDate>
+        </item>
+    </channel>
+</rss>

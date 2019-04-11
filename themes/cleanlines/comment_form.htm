@@ -1,0 +1,11 @@
+<form method='POST' action='exec.php?action=comment_add&entryid=<!--entryid-->'>
+<table border='0' cellspacing='1' cellpadding='3' bgcolor='#cccccc'>
+<tr><td bgcolor='#ffffff'><b>Name</b></td><td bgcolor='#ffffff'><input type='text' name='name' size='30' value='<!--name-->'></td></tr>
+<tr><td bgcolor='#ffffff'><b>EMail</b></td><td bgcolor='#ffffff'><input type='text' name='email' size='40' value='<!--email-->'> (will not be displayed)</td></tr>
+<tr><td bgcolor='#ffffff'>URL</td><td bgcolor='#ffffff'><input type='text' name='url' size='50' value='<!--url-->'></td></tr>
+<tr><td bgcolor='#ffffff'><b>Comment</b></td><td bgcolor='#ffffff'><textarea name='comment' cols='40' rows='3'><!--comment--></textarea></td></tr>
+<tr><td bgcolor='#ffffff'><b>Verify Code</b></td><td bgcolor='#ffffff'><table><tr><td><!--verify_code--></td><td>(type code into box)</td><td><input type='text' name='verifycode' size='12'></td></tr></table></td></tr>
+<tr><td bgcolor='#ffffff'><b>Remember Me</b></td><td bgcolor='#ffffff'><input type='checkbox' name='remember' value='x'></td></tr>
+<tr><td colspan='2' align='right' bgcolor='#ffffff'><table width="100%"><tr><td><b>Bold</b> = Required</td><td align="right"><input type='submit' value='Submit Comment'></td></tr></table></td></tr>
+</table>
+</form>
